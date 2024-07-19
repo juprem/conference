@@ -37,3 +37,4 @@ styled-system-studio
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.next/
